@@ -1,16 +1,13 @@
-### Hi there 👋
+# _Introduction_ to Bryan Conde!
 
-<!--
-**condebryan/condebryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Three interesting facts about me:
 
-Here are some ideas to get you started:
+1. My favourite sport is **soccer**
+2. I was born in Venezuela
+3. Web Development has recently turned into my passison!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More About Me
+
+# About Me
+
+Hi, I'm Bryan Conde, a passionate web developer with a love for open-source projects. I enjoy coding in various programming languages and collaborating with others to build innovative solutions. In my free time, I like to explore the world of webistes and cretive works.
